@@ -97,8 +97,6 @@ Analysis Procedure
 - Stability assessment of causal effects using bootstrap resampling (n = 1,000)  
 - Independence test results for error terms  
 
-<img width="1853" height="767" alt="図2" src="https://github.com/user-attachments/assets/52464c53-e0f8-412a-8376-f94cd2dc90d4" />
-
 
 ## Citation
 本コードを利用した場合は、以下を引用してください。
