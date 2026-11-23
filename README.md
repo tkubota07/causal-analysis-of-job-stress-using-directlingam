@@ -87,9 +87,8 @@ Analysis Procedure
 - 推定された因果順序  
 - DirectLiNGAMによる因果グラフ  
 - 推定された総因果効果  
-- Bootstrapによる因果効果の安定性評価結果（n = 1,000）  
+- Bootstrapによる因果効果の安定性評価結果（n = 1,000） 
 - 誤差項の独立性検定結果  
-
 
 - Spearman correlation matrix  
 - Estimated causal ordering  
