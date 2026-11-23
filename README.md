@@ -34,7 +34,7 @@ lingam
 ## Installation
 リポジトリをクローンし、必要なライブラリをインストールします。
 
-git clone https://github.com/ユーザー名/causal-job-stress-lingam.git
+git clone URL
 
 cd causal-job-stress-lingam
 
