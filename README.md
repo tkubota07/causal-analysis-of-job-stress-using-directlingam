@@ -84,6 +84,7 @@ Analysis Procedure
 <img width="1853" height="767" alt="図2" src="https://github.com/user-attachments/assets/52464c53-e0f8-412a-8376-f94cd2dc90d4" />
 
 ## Results
+本解析では、以下の結果が得られます。
 
 - Spearman順位相関行列  
 - 推定された因果順序  
@@ -92,13 +93,14 @@ Analysis Procedure
 - Bootstrapによる因果効果の安定性評価結果（n = 1,000） 
 - 誤差項の独立性検定結果  
 
+The analysis produces the following outputs:
+
 - Spearman correlation matrix  
 - Estimated causal ordering  
 - Estimated causal graph using DirectLiNGAM  
 - Estimated total causal effects  
 - Stability assessment of causal effects using bootstrap resampling (n = 1,000)  
 - Independence test results for error terms  
-
 
 ## Citation
 本コードを利用した場合は、以下を引用してください。
