@@ -34,21 +34,18 @@ Main Analyses
 ## Installation
 リポジトリをクローンし、必要なライブラリをインストールします。
 
-git clone 
+git clone https://github.com/tkubota07/causal-analysis-of-job-stress-using-directlingam.git
 
 cd causal-analysis-of-job-stress-using-directlingam
 
 pip install -r requirements.txt
 
 ## Usage
-Run the Jupyter notebook:
-
-解析を実行します。
-
-python causal_analysis.py
-または Jupyter Notebook を利用します。
+Launch Jupyter Notebook:
 
 jupyter notebook
+
+Open job_stress_directlingam and run the cells sequentially.
 
 ## Data
 本研究で使用した調査データは、個人情報保護の観点から公開していません。
