@@ -90,6 +90,7 @@ Analysis Procedure
 - Bootstrapによる因果効果の安定性評価結果（n = 1,000）  
 - 誤差項の独立性検定結果  
 
+
 - Spearman correlation matrix  
 - Estimated causal ordering  
 - Estimated causal graph using DirectLiNGAM  
