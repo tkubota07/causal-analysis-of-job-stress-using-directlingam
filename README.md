@@ -5,7 +5,7 @@ Causal discovery of job stress factors using DirectLiNGAM and Python.
 本リポジトリは、DirectLiNGAM を用いて職業性ストレス関連要因の因果構造を分析するための Python コードを公開するものです。
 
 主な解析内容
-*Shapiro-Wilk正規性検定  
+- Shapiro-Wilk正規性検定  
 *Spearman順位相関分析  
 *DirectLiNGAMによる因果探索  
 *Bootstrapによる因果効果の安定性評価(n=1000)  
