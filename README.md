@@ -17,12 +17,12 @@ Causal discovery of job stress factors using DirectLiNGAM and Python.
 This repository contains Python code for causal analysis of job stress factors using the DirectLiNGAM algorithm.
 
 Main Analyses
--Shapiro-Wilk normality test
--Spearman rank correlation analysis
--DirectLiNGAM causal discovery
--Bootstrap estimation(n=1000)
--Error independence test
--Causal graph visualization
+-Shapiro-Wilk normality test  
+-Spearman rank correlation analysis  
+-DirectLiNGAM causal discovery  
+-Bootstrap estimation(n=1000)  
+-Error independence test  
+-Causal graph visualization  
 
 ## Requirements
 -python 3.12.5  
