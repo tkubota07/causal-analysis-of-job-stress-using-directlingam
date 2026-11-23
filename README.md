@@ -1,4 +1,4 @@
-<img width="2974" height="2268" alt="image" src="https://github.com/user-attachments/assets/ff997b05-f1c1-4349-8dcf-461c3a384ecc" /># causal-analysis-of-job-stress-using-directlingam
+# causal-analysis-of-job-stress-using-directlingam
 Causal discovery of job stress factors using DirectLiNGAM and Python.
 
 ## Overview
