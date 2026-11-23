@@ -81,6 +81,8 @@ Analysis Procedure
 - Test the independence of error terms  
 - Generate a causal graph  
 
+<img width="1853" height="767" alt="図2" src="https://github.com/user-attachments/assets/52464c53-e0f8-412a-8376-f94cd2dc90d4" />
+
 ## Results
 
 - Spearman順位相関行列  
