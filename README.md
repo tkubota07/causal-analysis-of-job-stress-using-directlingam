@@ -17,21 +17,21 @@ Causal discovery of job stress factors using DirectLiNGAM and Python.
 This repository contains Python code for causal analysis of job stress factors using the DirectLiNGAM algorithm.
 
 Main Analyses
--Shapiro-Wilk normality test  
--Spearman rank correlation analysis  
--DirectLiNGAM causal discovery  
--Bootstrap estimation(n=1000)  
--Error independence test  
--Causal graph visualization  
+- Shapiro-Wilk normality test  
+- Spearman rank correlation analysis  
+- DirectLiNGAM causal discovery  
+- Bootstrap estimation(n=1000)  
+- Error independence test  
+- Causal graph visualization  
 
 ## Requirements
--python 3.12.5  
--numpy  
--pandas  
--matplotlib  
--seaborn  
--scipy  
--lingam
+- python 3.12.5  
+- numpy  
+- pandas  
+- matplotlib  
+- seaborn  
+- scipy  
+- lingam
 
 ## Installation
 リポジトリをクローンし、必要なライブラリをインストールします。
@@ -63,39 +63,39 @@ Input data should be provided as a CSV file with variables in columns and partic
 ## Methods
 解析手順
 
--データ読込み  
--Shapiro-Wilk検定による正規性検証  
--Spearman順位相関係数の算出  
--DirectLiNGAMによる因果探索  
--Bootstrapによる因果効果の安定性評価(n=1000)  
--誤差独立性検定  
--因果グラフ作成  
+- データ読込み  
+- Shapiro-Wilk検定による正規性検証  
+- Spearman順位相関係数の算出  
+- DirectLiNGAMによる因果探索  
+- Bootstrapによる因果効果の安定性評価(n=1000)  
+- 誤差独立性検定  
+- 因果グラフ作成  
 
 Analysis Procedure
 
--Load the dataset  
--Assess normality using the Shapiro-Wilk test  
--Calculate Spearman's rank correlation coefficients  
--Perform causal discovery using DirectLiNGAM  
--Evaluate the stability of causal effects using bootstrap resampling (n = 1,000)  
--Test the independence of error terms  
--Generate a causal graph  
+- Load the dataset  
+- Assess normality using the Shapiro-Wilk test  
+- Calculate Spearman's rank correlation coefficients  
+- Perform causal discovery using DirectLiNGAM  
+- Evaluate the stability of causal effects using bootstrap resampling (n = 1,000)  
+- Test the independence of error terms  
+- Generate a causal graph  
 
 ## Results
 
--Spearman順位相関行列  
--推定された因果順序  
--DirectLiNGAMによる因果グラフ  
--推定された総因果効果  
--Bootstrapによる因果効果の安定性評価結果（n = 1,000）  
--誤差項の独立性検定結果  
+- Spearman順位相関行列  
+- 推定された因果順序  
+- DirectLiNGAMによる因果グラフ  
+- 推定された総因果効果  
+- Bootstrapによる因果効果の安定性評価結果（n = 1,000）  
+- 誤差項の独立性検定結果  
 
--Spearman correlation matrix  
--Estimated causal ordering  
--Estimated causal graph using DirectLiNGAM  
--Estimated total causal effects  
--Stability assessment of causal effects using bootstrap resampling (n = 1,000)  
--Independence test results for error terms  
+- Spearman correlation matrix  
+- Estimated causal ordering  
+- Estimated causal graph using DirectLiNGAM  
+- Estimated total causal effects  
+- Stability assessment of causal effects using bootstrap resampling (n = 1,000)  
+- Independence test results for error terms  
 
 <img width="1853" height="767" alt="図2" src="https://github.com/user-attachments/assets/52464c53-e0f8-412a-8376-f94cd2dc90d4" />
 
